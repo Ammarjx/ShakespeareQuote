@@ -1,0 +1,43 @@
+
+
+#BG-IMAGE {
+
+
+  /* Set rules to fill background */
+  min-height: 100%;
+  min-width: 1024px;
+	
+  /* Set up proportionate scaling */
+  width: 100%;
+  height: auto;
+	
+  /* Set up positioning */
+  position: background;
+  top: 0;
+  left: 0;
+   
+
+}
+#you{
+
+	color: darkgreen;
+	font-size: 30px;
+	margin-left: 900px;
+    line-height: 200px;
+    margin-top: -100px;
+    position: absolute;
+    top: 50%;
+    	
+}
+#arrow{
+
+    color: darkgreen;
+	font-size: 30px;
+	margin-left: 90px;
+    line-height: 0px;
+    margin-top: 10px;
+    position: absolute;
+    top: 50%;
+
+}
+
